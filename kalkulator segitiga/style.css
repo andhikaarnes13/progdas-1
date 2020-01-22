@@ -1,0 +1,50 @@
+.segitiga {
+    background-color: gray;
+    width: 45%;
+    height: 370px;
+    margin-top: 150px;
+    margin-left: 350px;
+    margin-right: 60px;
+    border-style: double;
+    border-color: white;
+    border-width:28px;
+    background-color: gray;
+    opacity: 0.9;
+
+    
+}
+
+
+.tabel{
+    margin-top: initial;
+    margin: auto;
+    
+}
+
+.kotak {
+    width: 4%;
+    margin-left: 258px;
+    margin-top: 10px;
+    background-color: rgba(255, 0, 0, 0);
+    
+}
+
+.h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: white     ;
+    font-size: 50px;
+    background-color:gray;
+}
+
+.body {
+    background-image: url(img.jpg);
+
+}
+
+.h4 {
+font-size: 70px;
+color: pink;
+font-variant: small-caps;
+
+}
